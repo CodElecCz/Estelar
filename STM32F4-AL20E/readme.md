@@ -16,6 +16,14 @@
 
 # 2. Versions change log:
 
+### v01.03 (16.07.2021)
+* AL20E configuration for HW: 
+- READER-1, READER-2 (wiegand)
+- Dip switch 1 ON - wiegand, OFF - rs232
+* web "Nastaveni ctecek" - read/save/last barcode
+* web "Nastaveni rele" - read/save
+* SNTP service "pool.ntp.org"
+
 ### v01.02 (21.06.2021)
 * AL20E configuration for HW: 
 - READER-1, READER-2 (rs232)
