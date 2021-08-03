@@ -16,6 +16,22 @@
 
 # 2. Versions change log:
 
+### in progress
+* RestApi http://192.168.1.100:8080/dochazka/v1/
+- GET/POST datetime
+- GET/POST config
+
+### v01.04 (03.08.2021)
+* ACS personal/access/plan/action/store
+* RestApi http://192.168.1.100:8080/dochazka/v1/
+- POST memory
+- POST/GET personal
+- POST/GET access
+- POST/GET plan
+- POST/GET action
+- GET commit
+- GET store
+
 ### v01.03 (16.07.2021)
 * AL20E configuration for HW: 
 - READER-1, READER-2 (wiegand)
