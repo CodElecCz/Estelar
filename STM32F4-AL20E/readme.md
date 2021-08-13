@@ -17,20 +17,21 @@
 # 2. Versions change log:
 
 ### in progress
-* RestApi http://192.168.1.100:8080/dochazka/v1/
-- GET/POST datetime
+* RestApi http://192.168.1.100:8080/acsline/v2/
 - GET/POST config
 
-### v01.04 (03.08.2021)
+### v01.04 (13.08.2021)
 * ACS personal/access/plan/action/store
-* RestApi http://192.168.1.100:8080/dochazka/v1/
+* RestApi http://192.168.1.100:8080/acsline/v2/
 - POST memory
 - POST/GET personal
 - POST/GET access
 - POST/GET plan
 - POST/GET action
+- GET/POST datetime
 - GET commit
 - GET store
+- POST login - authorization Apikey
 
 ### v01.03 (16.07.2021)
 * AL20E configuration for HW: 
