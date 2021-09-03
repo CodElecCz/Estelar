@@ -20,6 +20,10 @@
 * RestApi http://192.168.1.100:8080/acsline/v2/
 - GET/POST config
 
+### v01.05 (03.09.2021)
+* RestApi http://192.168.1.100:8080/acsline/v2/
+- POST/GET RelayPlan
+
 ### v01.04 (18.08.2021)
 * ACS personal/access/plan/action/store
 * RestApi http://192.168.1.100:8080/acsline/v2/
