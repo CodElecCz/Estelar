@@ -1,20 +1,24 @@
 # 1. Description:
 
-### STM32F4_{hi}.{low}.bin 
+### GR-DH1_{hi}{low}_PRG.bin 
 * version for flash via ST-LINK
 
-### STM32F4_{hi}.{low}_IAP_nohttps.bin
+### GR-DH1_{hi}{low}_PRG_nohttps.bin
 * version for flash via ST-LINK
 * no https web interface, no SRAM use
 
-### STM32F4_{hi}.{low}_IAP.bin 
+### GR-DH1_{hi}{low}.bin 
 * version for flash via web interface
 
-### STM32F4_{hi}.{low}_IAP_nohttps.bin
+### GR-DH1_{hi}{low}_nohttps.bin
 * version for flash via web interface
 * no https web interface, no SRAM use
 
 # 2. Versions change log:
+
+### v01.15 (14.09.2021)
+* FW update (upg.estelar.cz) 
+* PowerSupply ADC from DMA, 600ms moving avg
 
 ### v01.14 (13.07.2021)
 * DHCP default off 

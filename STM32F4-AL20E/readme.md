@@ -1,16 +1,16 @@
 # 1. Description:
 
-### STM32F4_{hi}.{low}.bin 
+### AL20E_{hi}{low}_PRG.bin 
 * version for flash via ST-LINK
 
-### STM32F4_{hi}.{low}_IAP_nohttps.bin
+### AL20E_{hi}{low}_PRG_nohttps.bin
 * version for flash via ST-LINK
 * no https web interface, no SRAM use
 
-### STM32F4_{hi}.{low}_IAP.bin 
+### AL20E_{hi}{low}.bin 
 * version for flash via web interface
 
-### STM32F4_{hi}.{low}_IAP_nohttps.bin
+### EL20E_{hi}{low}_nohttps.bin
 * version for flash via web interface
 * no https web interface, no SRAM use
 
