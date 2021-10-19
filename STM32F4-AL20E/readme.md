@@ -3,16 +3,8 @@
 ### AL20E_{hi}{low}_PRG.bin 
 * version for flash via ST-LINK
 
-### AL20E_{hi}{low}_PRG_nohttps.bin
-* version for flash via ST-LINK
-* no https web interface, no SRAM use
-
 ### AL20E_{hi}{low}.bin 
 * version for flash via web interface
-
-### EL20E_{hi}{low}_nohttps.bin
-* version for flash via web interface
-* no https web interface, no SRAM use
 
 # 2. Versions change log:
 
