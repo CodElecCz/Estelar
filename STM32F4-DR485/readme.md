@@ -5,7 +5,7 @@
 
 ### GR-DR1_{hi}{low}_PRG_nohttps.bin
 * version for flash via ST-LINK
-* no https web interface, no SRAM use
+* no https web interface, without SRAM
 
 ### DR485_{hi}{low}_PRG.bin 
 * version for flash via ST-LINK
@@ -15,18 +15,20 @@
 
 ### GR-DR1_{hi}{low}_nohttps.bin
 * version for flash via web interface
-* no https web interface, no SRAM use
+* no https web interface, without SRAM
 
 ### DR485_{hi}{low}.bin 
 * version for flash via web interface
-* 
+
 # 2. Versions change log:
 
-### v01.15 (19.10.2021)
+### v01.16 (09.11.2021)
 * Project rename to GR-DR1 
 * Device name default to GR-DR1_{MAC04}{MAC05}
-* FW update (upg.estelar.cz) 
 * FW changelog (upg.estelar.cz)
+
+### v01.15 (14.09.2021)
+* FW update (upg.estelar.cz) 
 * PowerSupply ADC from DMA, 600ms moving avg
 
 ### v01.14 (13.07.2021)
