@@ -7,18 +7,12 @@
 * version for flash via ST-LINK
 * no https web interface, without SRAM
 
-### DR485_{hi}{low}_PRG.bin 
-* version for flash via ST-LINK
-
 ### GR-DR1_{hi}{low}.bin 
 * version for flash via web interface
 
 ### GR-DR1_{hi}{low}_nohttps.bin
 * version for flash via web interface
 * no https web interface, without SRAM
-
-### DR485_{hi}{low}.bin 
-* version for flash via web interface
 
 # 2. Versions change log:
 
