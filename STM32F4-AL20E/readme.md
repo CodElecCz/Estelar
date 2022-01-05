@@ -12,6 +12,10 @@
 * RestApi http://192.168.1.100:8080/acsline/v2/
 - GET/POST config
 
+### v01.07 (05.01.2022)
+* web - firmware, changelog
+* ATECC608 crypt authorization
+
 ### v01.06 (15.09.2021)
 * RestApi http://192.168.1.100:8080/acsline/v2/
 - POST DataEdit
