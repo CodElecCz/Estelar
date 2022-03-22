@@ -8,6 +8,9 @@
 
 # 2. Versions change log:
 
+### v01.18 (22.03.2022)
+* MAC 6C-93-08-40-27-10 to FF-FF 
+
 ### v01.17 (21.01.2022)
 * ATECC608 crypt authorization 
 * web small resolution adjust
