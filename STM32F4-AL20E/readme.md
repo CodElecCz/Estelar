@@ -10,7 +10,13 @@
 
 ### in progress
 * RestApi http://192.168.1.100:8080/acsline/v2/
+
+### v01.08 (28.04.2022)
 - GET/POST config
+- GET config-info
+- GET ver
+- GET memory-clear
+- POST personal-access-plan-action-relayplan is append
 
 ### v01.07 (21.01.2022)
 * web - firmware, changelog
