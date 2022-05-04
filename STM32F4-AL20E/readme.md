@@ -10,6 +10,11 @@
 
 ### in progress
 * RestApi http://192.168.1.100:8080/acsline/v2/
+* RestApi https://192.168.1.100:8443/acsline/v2/
+
+### v01.09 (04.05.2022)
+- POST socket - open port for FINGER
+- RestApi https + redirect on port 8443
 
 ### v01.08 (28.04.2022)
 - GET/POST config
