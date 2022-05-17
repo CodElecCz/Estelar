@@ -12,6 +12,11 @@
 * RestApi http://192.168.1.100:8080/acsline/v2/
 * RestApi https://192.168.1.100:8443/acsline/v2/
 
+### v01.10 (17.05.2022)
+- POST deflate (window 10+16bit) 
+- LWIP pbuf pool moved from SRAM to RAM (eth speed)
+- iperf 2.0 test support for eth
+
 ### v01.09 (04.05.2022)
 - POST socket - open port for FINGER
 - RestApi https + redirect on port 8443
