@@ -11,6 +11,17 @@
 ### in progress
 * RestApi http://192.168.1.100:8080/acsline/v2/
 * RestApi https://192.168.1.100:8443/acsline/v2/
+* RestApi gzip-stat
+
+### v01.12 (13.06.2022)
+- template-clear bugfix
+- template add 20ms for 1template process (name-surname optional)
+- rest-api previous result clear 
+
+### v01.11 (02.06.2022)
+- GET/POST Content-Encoding: gzip
+- GET/POST access-plan, access-relay
+- GET/POST template, template-clear
 
 ### v01.10 (17.05.2022)
 - POST deflate (window 10+16bit) 
